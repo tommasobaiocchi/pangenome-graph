@@ -11,12 +11,6 @@ A C++ tool for analyzing genomic variation graphs in GFA format. Implements grap
 - **K-mer Analysis**: Computes k-mer frequencies using polynomial rolling hash
 - **Pattern Matching**: Efficient sequence search with hash optimization
 
-## Installation
-
-### Prerequisites
-- C++17 compiler (g++ 7+ or clang++ 5+)
-- 4GB RAM minimum
-
 ### Quick Compilation
 ```bash
 g++ -std=c++17 -O2 -o graph_analyzer graph_analyzer.cpp
