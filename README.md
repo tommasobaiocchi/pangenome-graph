@@ -7,7 +7,6 @@ A C++ tool for analyzing genomic variation graphs in GFA format. Implements grap
 - **GFA Parser**: Reads Standard GFA 1.0 files (S and L records)
 - **Cycle Detection**: Identifies and removes back edges using DFS
 - **DAG Conversion**: Transforms cyclic graphs to acyclic graphs
-- **Path Finding**: Enumerates all source-to-sink paths with orientation handling
 - **K-mer Analysis**: Computes k-mer frequencies using polynomial rolling hash
 - **Pattern Matching**: Efficient sequence search with hash optimization
 
