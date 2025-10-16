@@ -1,6 +1,6 @@
 # Genomic Graph Analyzer
 
-A C++ tool for analyzing genomic variation graphs in GFA format. Implements graph cycle detection, path finding, and k-mer frequency analysis with rolling hash optimization.
+C++ tool for analyzing genomic variation graphs in GFA format. Implements graph cycle detection, path finding, and k-mer frequency analysis with rolling hash optimization.
 
 ## Features
 
