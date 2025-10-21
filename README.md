@@ -14,7 +14,6 @@ C++ tool for analyzing genomic variation graphs in GFA format. Implements graph 
 ```bash
 g++ -std=c++17 -O2 -o graph_analyzer graph_analyzer.cpp
 ```
-
 ## Usage
 ```bash
 ./graph_analyzer <gfa_file> [kmer_length] [top_n] [source] [target]
