@@ -26,8 +26,8 @@ g++ -std=c++17 -O2 -o graph_analyzer graph_analyzer.cpp
 ## Repository Structure
 ```bash
 genomic-graph-analyzer/
-├── src/             # Source code (main.cpp)
-├── example.gfa      # Example GFA file (optional)
+├── src/            
+├── example.gfa     
 ├── .gitignore
 ├── LICENSE
 └── README.md
